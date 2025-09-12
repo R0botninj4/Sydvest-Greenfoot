@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wizard
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moving()
+comment3.params=
+comment3.target=greenfoot.Actor\ getNearestEnemy()
+comment4.params=
+comment4.target=boolean\ isTouchingEnemy()
+comment5.params=
+comment5.target=void\ hitByEnemy()
+comment6.params=
+comment6.target=void\ hitByEnemyLiv()
+comment7.params=
+comment7.target=void\ die()
+comment8.params=
+comment8.target=void\ hitByFlame()
+numComments=9
