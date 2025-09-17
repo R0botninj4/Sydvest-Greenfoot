@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Win
+comment1.params=
+comment1.target=Win()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=seconds
+comment3.target=void\ updateText(int)
+numComments=4

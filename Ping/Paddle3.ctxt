@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Paddle3
+comment1.params=width\ height\ players
+comment1.target=Paddle3(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handlePlayerControl()
+comment4.params=
+comment4.target=void\ handleAIControl()
+comment5.params=
+comment5.target=void\ moveTowardsTarget()
+comment6.params=
+comment6.target=int\ getWorldCenterX()
+numComments=7
